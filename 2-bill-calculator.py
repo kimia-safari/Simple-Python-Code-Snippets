@@ -1,5 +1,5 @@
 # Welcome message
-print("Welcome to the tip calculator.")
+print("Welcome to the bill calculator.")
 
 # Get input for the total bill
 bill = float(input("What was the total bill? $"))
